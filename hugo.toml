@@ -1,0 +1,4 @@
+baseURL = "https://daku-on.github.io/my_blog_hugo/"
+languageCode = "ja"
+title = "My Blog"
+theme = "ananke"
