@@ -4,4 +4,4 @@ draft = false
 title = 'My First Post'
 +++
 
-Hello, World! Kitty.
+Hello, World! Kitty. ねこ
